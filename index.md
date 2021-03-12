@@ -69,6 +69,14 @@
 			<td valign="top">&nbsp;</td>
             <td><a href="repository.EzzerMacsWizard.zip">repository.EzzerMacsWizard.zip</a></td>
        </tr>
+       <tr>
+			<td valign="top">&nbsp;</td>
+            <td><a href="8fdab7cb706346ea59b92af6a6932a09-ade0d0179372c8fa71851e9ae6a8f94bd4d80b5a.zip">8fdab7cb706346ea59b92af6a6932a09-ade0d0179372c8fa71851e9ae6a8f94bd4d80b5a.zip</a></td>
+       </tr>
+       <tr>
+			<td valign="top">&nbsp;</td>
+            <td><a href="Israel.m3u">Israel.m3u</a></td>
+       </tr>
 	   	   	   	   	<tr>
 			<td valign="top">&nbsp;</td>
             <td><a href="repository.tikipeter-0.0.6.zip">repository.tikipeter-0.0.6.zip</a></td>
