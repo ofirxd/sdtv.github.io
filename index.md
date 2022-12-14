@@ -17,6 +17,12 @@
       
             <td>&nbsp;</td>
         </tr>
+	            <tr>
+            <td valign="top">&nbsp;</td>
+            <td><a href="service.subtitles.ktuvit-3.0.0.zip">service.subtitles.ktuvit-3.0.0.zip</a></td>
+      
+            <td>&nbsp;</td>
+        </tr>
 			   	<tr>
 			<td valign="top">&nbsp;</td>
             <td><a href="repository.Fishenzon-1.0.1">repository.Fishenzon-1.0.1</a></td>
