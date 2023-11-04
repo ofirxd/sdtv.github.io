@@ -10,6 +10,7 @@
             </th>
         </tr>
         <tr>
+        <tr>
             <td valign="top">&nbsp;</td>
             <td>
                 <a href="sdtv-2.6.2.1.zip">sdtv-2.6.2.1.zip</a>
@@ -117,6 +118,13 @@
             <td valign="top">&nbsp;</td>
             <td>
                 <a href="repository.tikipeter-0.0.6.zip">repository.tikipeter-0.0.6.zip</a>
+            </td>
+        </tr>
+        <tr>
+        <tr>
+            <td valign="top">&nbsp;</td>
+            <td>
+                <a href="repository.burekasKodi-1.0.2.zip">repository.burekasKodi-1.0.2.zip</a>
             </td>
         </tr>
         <tr>
